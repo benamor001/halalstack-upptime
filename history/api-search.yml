@@ -1,7 +1,7 @@
 url: https://halalstack.app/api/search?q=AAPL
-status: up
-code: 200
-responseTime: 320
-lastUpdated: 2026-06-19T00:23:07.053Z
+status: down
+code: 500
+responseTime: 317
+lastUpdated: 2026-06-19T23:43:39.049Z
 startTime: 2026-05-29T14:01:08.032Z
 generator: Upptime <https://github.com/upptime/upptime>
