@@ -1,7 +1,7 @@
 url: https://halalstack.app/advisor
-status: up
-code: 200
-responseTime: 1332
-lastUpdated: 2026-07-04T23:58:38.909Z
+status: down
+code: 500
+responseTime: 1005
+lastUpdated: 2026-07-05T22:27:05.582Z
 startTime: 2026-05-29T14:01:41.180Z
 generator: Upptime <https://github.com/upptime/upptime>
