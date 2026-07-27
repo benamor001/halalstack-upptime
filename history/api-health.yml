@@ -1,7 +1,7 @@
 url: https://halalstack.app/api/health
-status: up
-code: 200
-responseTime: 666
-lastUpdated: 2026-07-26T23:56:24.881Z
+status: down
+code: 503
+responseTime: 1209
+lastUpdated: 2026-07-27T04:58:01.007Z
 startTime: 2026-05-29T14:01:07.220Z
 generator: Upptime <https://github.com/upptime/upptime>
