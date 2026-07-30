@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/halalstack.app.ico",
     "slug": "halal-stack-home",
     "status": "down",
-    "uptime": "95.70%",
-    "uptimeDay": "11.88%",
-    "uptimeWeek": "74.08%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "95.70%",
+    "uptime": "94.17%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "60.06%",
+    "uptimeMonth": "90.81%",
+    "uptimeYear": "94.17%",
     "time": 1055,
-    "timeDay": 1077,
-    "timeWeek": 1091,
-    "timeMonth": 1101,
+    "timeDay": 0,
+    "timeWeek": 1059,
+    "timeMonth": 1107,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2026-06-14": 623,
@@ -21,7 +21,8 @@
       "2026-06-19": 17,
       "2026-07-28": 1269,
       "2026-07-27": 1142,
-      "2026-07-29": 202
+      "2026-07-30": 175,
+      "2026-07-29": 1440
     }
   },
   {
@@ -30,15 +31,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/halalstack.app.ico",
     "slug": "api-health",
     "status": "down",
-    "uptime": "95.70%",
-    "uptimeDay": "11.90%",
-    "uptimeWeek": "74.08%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "95.70%",
+    "uptime": "94.17%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "60.06%",
+    "uptimeMonth": "90.81%",
+    "uptimeYear": "94.17%",
     "time": 741,
-    "timeDay": 709,
-    "timeWeek": 776,
-    "timeMonth": 761,
+    "timeDay": 787,
+    "timeWeek": 770,
+    "timeMonth": 764,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2026-06-14": 622,
@@ -46,7 +47,8 @@
       "2026-06-19": 17,
       "2026-07-28": 1269,
       "2026-07-27": 1142,
-      "2026-07-29": 202
+      "2026-07-30": 175,
+      "2026-07-29": 1440
     }
   },
   {
@@ -55,16 +57,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/halalstack.app.ico",
     "slug": "api-search",
     "status": "down",
-    "uptime": "95.49%",
-    "uptimeDay": "11.91%",
-    "uptimeWeek": "74.09%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "95.49%",
-    "time": 422,
-    "timeDay": 453,
-    "timeWeek": 449,
-    "timeMonth": 443,
-    "timeYear": 422,
+    "uptime": "93.97%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "60.07%",
+    "uptimeMonth": "90.81%",
+    "uptimeYear": "93.97%",
+    "time": 423,
+    "timeDay": 489,
+    "timeWeek": 441,
+    "timeMonth": 446,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2026-05-29": 180,
       "2026-06-14": 622,
@@ -72,7 +74,8 @@
       "2026-06-19": 16,
       "2026-07-28": 1269,
       "2026-07-27": 1142,
-      "2026-07-29": 202
+      "2026-07-30": 175,
+      "2026-07-29": 1440
     }
   },
   {
@@ -81,15 +84,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/halalstack.app.ico",
     "slug": "methodology-hcs",
     "status": "down",
-    "uptime": "95.50%",
-    "uptimeDay": "11.94%",
-    "uptimeWeek": "74.10%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "95.50%",
+    "uptime": "93.97%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "60.08%",
+    "uptimeMonth": "90.81%",
+    "uptimeYear": "93.97%",
     "time": 1004,
-    "timeDay": 997,
-    "timeWeek": 1023,
-    "timeMonth": 1061,
+    "timeDay": 0,
+    "timeWeek": 983,
+    "timeMonth": 1066,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2026-05-29": 180,
@@ -98,7 +101,8 @@
       "2026-06-19": 16,
       "2026-07-28": 1268,
       "2026-07-27": 1141,
-      "2026-07-29": 202
+      "2026-07-30": 175,
+      "2026-07-29": 1440
     }
   },
   {
@@ -107,15 +111,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/halalstack.app.ico",
     "slug": "sukuk-catalogue",
     "status": "down",
-    "uptime": "95.70%",
-    "uptimeDay": "11.97%",
-    "uptimeWeek": "74.11%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "95.70%",
+    "uptime": "94.18%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "60.09%",
+    "uptimeMonth": "90.82%",
+    "uptimeYear": "94.18%",
     "time": 1086,
-    "timeDay": 1082,
-    "timeWeek": 1095,
-    "timeMonth": 1117,
+    "timeDay": 0,
+    "timeWeek": 1063,
+    "timeMonth": 1122,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2026-06-14": 621,
@@ -123,7 +127,8 @@
       "2026-06-19": 15,
       "2026-07-28": 1268,
       "2026-07-27": 1141,
-      "2026-07-29": 202
+      "2026-07-30": 175,
+      "2026-07-29": 1440
     }
   },
   {
@@ -132,15 +137,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/halalstack.app.ico",
     "slug": "learn-articles",
     "status": "down",
-    "uptime": "95.71%",
-    "uptimeDay": "12.00%",
-    "uptimeWeek": "74.12%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "95.71%",
+    "uptime": "94.18%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "60.10%",
+    "uptimeMonth": "90.82%",
+    "uptimeYear": "94.18%",
     "time": 1129,
-    "timeDay": 1145,
-    "timeWeek": 1183,
-    "timeMonth": 1179,
+    "timeDay": 0,
+    "timeWeek": 1130,
+    "timeMonth": 1183,
     "timeYear": 1129,
     "dailyMinutesDown": {
       "2026-06-14": 621,
@@ -148,7 +153,8 @@
       "2026-06-19": 15,
       "2026-07-28": 1267,
       "2026-07-27": 1140,
-      "2026-07-29": 202
+      "2026-07-30": 175,
+      "2026-07-29": 1440
     }
   },
   {
@@ -157,15 +163,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/halalstack.app.ico",
     "slug": "ai-advisor",
     "status": "down",
-    "uptime": "95.63%",
-    "uptimeDay": "12.04%",
-    "uptimeWeek": "74.13%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "95.63%",
+    "uptime": "94.10%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "60.11%",
+    "uptimeMonth": "90.66%",
+    "uptimeYear": "94.10%",
     "time": 1313,
-    "timeDay": 1433,
-    "timeWeek": 1381,
-    "timeMonth": 1361,
+    "timeDay": 0,
+    "timeWeek": 1330,
+    "timeMonth": 1363,
     "timeYear": 1313,
     "dailyMinutesDown": {
       "2026-06-14": 620,
@@ -174,7 +180,8 @@
       "2026-07-05": 71,
       "2026-07-28": 1267,
       "2026-07-27": 1140,
-      "2026-07-29": 202
+      "2026-07-30": 175,
+      "2026-07-29": 1440
     }
   },
   {
@@ -183,15 +190,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/halalstack.app.ico",
     "slug": "scanner",
     "status": "down",
-    "uptime": "95.63%",
-    "uptimeDay": "12.06%",
-    "uptimeWeek": "74.14%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "95.63%",
+    "uptime": "94.11%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "60.12%",
+    "uptimeMonth": "90.66%",
+    "uptimeYear": "94.11%",
     "time": 1845,
-    "timeDay": 1866,
-    "timeWeek": 1870,
-    "timeMonth": 1879,
+    "timeDay": 0,
+    "timeWeek": 1810,
+    "timeMonth": 1885,
     "timeYear": 1845,
     "dailyMinutesDown": {
       "2026-06-14": 620,
@@ -200,7 +207,8 @@
       "2026-07-05": 71,
       "2026-07-28": 1266,
       "2026-07-27": 1139,
-      "2026-07-29": 202
+      "2026-07-30": 175,
+      "2026-07-29": 1440
     }
   }
 ]
